@@ -2,7 +2,8 @@ print("u need pyperclip")
 print("run this on ur terminal--> pip install pyperclip")
 print("or")
 print("this--> python -m pip install pyperclip")
-
+print("press enter to continue")
+input("")
 
 # lil bro tryinna steal my code
                     
